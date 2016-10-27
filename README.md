@@ -22,7 +22,7 @@ Recommended reading
 
 ## Environment Properties
 
-If using the [built-in data tier RDS](built-in data tier RDS) with EB, these are auto set for you.
+If using the [built-in data tier RDS](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.db.html) with EB, these are auto set for you.
 - `RDS_HOSTNAME`
 - `RDS_PORT`
 - `RDS_DB_NAME`
